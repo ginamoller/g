@@ -1,0 +1,25 @@
+body{
+  background-color: aliceblue;
+}
+.header{
+  background-image: url("/~gsa007/oblig/bilder/headerbergen.jpg");
+  background-size:cover;
+  padding:130px;
+}
+h1{
+  color: white;
+  font-size: 300%;
+  font-family: Lucida Console;
+  text-align: center;
+  padding: 50px;
+}
+th, a{
+  background-color: cadetblue;
+  font-family: cursive;
+  font-size: 160%;
+  color: white;
+}
+th{
+  border: 3px solid white;
+  padding: 10px;
+}
